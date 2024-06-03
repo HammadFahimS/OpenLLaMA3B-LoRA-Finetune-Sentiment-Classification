@@ -6,4 +6,4 @@ Try to improve validation accuracy by tweaking the parameters.
 It uses LoRa to tune the model weights, which lets it run efficiently on a basic Nvidia T4 GPU
 
 
-The model is publicly available at: [https://huggingface.co/openlm-research/open_llama_3b] 🤗
+The model is publicly available at: https://huggingface.co/openlm-research/open_llama_3b 🤗
