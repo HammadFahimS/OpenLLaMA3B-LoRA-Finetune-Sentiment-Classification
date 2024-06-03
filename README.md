@@ -1,4 +1,4 @@
-*Sentiment classification boilerplate code for LLaMa*
+***Sentiment classification boilerplate code for LLaMa***
 
 This code will help you getting started with LLaMa for a very basic sentiment classification task on tweets.
 Try to improve validation accuracy by tweaking the parameters.
